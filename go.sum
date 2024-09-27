@@ -1,0 +1,4 @@
+github.com/gbin/goncurses v0.0.0-20240517145248-be6a464272ae h1:WeLSOuEYiwcuwg39YirhW0DibOkTztefXCTau5sSbyc=
+github.com/gbin/goncurses v0.0.0-20240517145248-be6a464272ae/go.mod h1:dmRjyC3ZOQQ4EXWMOIAQi0TLaJPcg61LFsJ9mvhSGRE=
+github.com/rthornton128/goncurses v0.0.0-20240804152857-da6485a3b6d7 h1:HRzMcsVbf0rNRrRX/h43syyiRAJFbJFpZFQEUhBJPAo=
+github.com/rthornton128/goncurses v0.0.0-20240804152857-da6485a3b6d7/go.mod h1:AHlKFomPTwmO7H2vL8d7VNrQNQmhMi/DBhDnHRhjbCo=

@@ -1,0 +1,5 @@
+TODOS:
+
+[x] - write to file also when quitting workout with q
+[ ] - format it to stay centered in a terminal window
+[ ] - maybe switch from ncurses to charmbracelet/bubbletea
